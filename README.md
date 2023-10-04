@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on foundational ML, LLM's and Deep Learning. 
+- 🌱 I’m currently learning the foundational topics of Machine learning (with the hope to apply it to the cybersecurity domain).
+
+
