@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on foundational ML, LLM's and Deep Learning. 
-- 🌱 I’m currently learning the foundational topics of Machine learning (with the hope to apply it to the cybersecurity domain).
+- 🌱 I’m currently learning the core topics of machine learning with the goal to apply techniques to the cybersecurity domain.
 
 
